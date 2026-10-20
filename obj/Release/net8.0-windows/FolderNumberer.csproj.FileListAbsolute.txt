@@ -1,0 +1,14 @@
+C:\Users\admin\Documents\Codex\2026-10-19\ban\work\FolderNumberer\obj\Release\net8.0-windows\FolderNumberer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\Codex\2026-10-19\ban\work\FolderNumberer\obj\Release\net8.0-windows\FolderNumberer.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Codex\2026-10-19\ban\work\FolderNumberer\obj\Release\net8.0-windows\FolderNumberer.AssemblyInfo.cs
+C:\Users\admin\Documents\Codex\2026-10-19\ban\work\FolderNumberer\obj\Release\net8.0-windows\FolderNumberer.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Codex\2026-10-19\ban\work\FolderNumberer\bin\Release\net8.0-windows\文件编号.exe
+C:\Users\admin\Documents\Codex\2026-10-19\ban\work\FolderNumberer\bin\Release\net8.0-windows\文件编号.deps.json
+C:\Users\admin\Documents\Codex\2026-10-19\ban\work\FolderNumberer\bin\Release\net8.0-windows\文件编号.runtimeconfig.json
+C:\Users\admin\Documents\Codex\2026-10-19\ban\work\FolderNumberer\bin\Release\net8.0-windows\文件编号.dll
+C:\Users\admin\Documents\Codex\2026-10-19\ban\work\FolderNumberer\bin\Release\net8.0-windows\文件编号.pdb
+C:\Users\admin\Documents\Codex\2026-10-19\ban\work\FolderNumberer\obj\Release\net8.0-windows\文件编号.dll
+C:\Users\admin\Documents\Codex\2026-10-19\ban\work\FolderNumberer\obj\Release\net8.0-windows\refint\文件编号.dll
+C:\Users\admin\Documents\Codex\2026-10-19\ban\work\FolderNumberer\obj\Release\net8.0-windows\文件编号.pdb
+C:\Users\admin\Documents\Codex\2026-10-19\ban\work\FolderNumberer\obj\Release\net8.0-windows\FolderNumberer.genruntimeconfig.cache
+C:\Users\admin\Documents\Codex\2026-10-19\ban\work\FolderNumberer\obj\Release\net8.0-windows\ref\文件编号.dll

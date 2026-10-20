@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "CIzFMbX1xtY=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\admin\\Documents\\Codex\\2026-10-19\\ban\\work\\FolderNumberer\\FolderNumberer.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "无法加载源 https://api.nuget.org/v3/index.json 的服务索引。",
+      "libraryId": "Microsoft.NET.ILLink.Tasks"
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "找不到包 Microsoft.NET.ILLink.Tasks。源 nuget.org 中不存在具有此 ID 的包",
+      "libraryId": "Microsoft.NET.ILLink.Tasks",
+      "targetGraphs": [
+        "net8.0-windows7.0",
+        "net8.0-windows7.0/win-x64"
+      ]
+    }
+  ]
+}
